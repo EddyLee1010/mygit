@@ -1,3 +1,3 @@
 # mygit
 1.local
-2.'haha conflict'
+2.'edit conflact'
